@@ -1,7 +1,2 @@
 # practice
-ngo quang bao
-Vũ Văn Chức
-ádasdas
-abc
-tung
-
+Hello from Khoa_c
